@@ -1,0 +1,61 @@
+.menu-active{
+   border-top: 4px #1bb5ba38;
+   border-bottom: 4px #199ec3df;
+   border-style: double;
+   border-radius: 16px;
+   font-size: 18px;
+   color: #213a57;
+   font-weight: 700;
+   
+}
+
+.menu-inactive{
+   color: #27568b;
+   font-weight: 400;
+   font-size: 16px;
+   padding-top: 12px;
+   font-weight: 600;
+}
+
+.title-text{
+   color: #b3420aef;
+   font-size: 2rem;
+   font-weight: 700;
+   text-align: center;
+   font-family: "Kanit", sans-serif;
+   margin-top: 40px;
+}
+
+.sub-text{
+   color: #626864cc;
+   font-size: 1rem;
+   font-weight: 400;
+   text-align: center;
+   max-width: 800px;
+   margin: auto;
+   justify-content: center;
+   padding: 0 16px;
+}
+
+
+.dark-text{
+   color: #362200;
+}
+
+.mid-text{
+   color: #702d00cc;
+   font-size: 1rem;
+}
+
+.mid-bg{
+background-color: #ffb254f1;
+}
+
+.lit-bg{
+background-color: #1de4da5b;
+}
+
+.lit-bg2{
+   background-color: #aefcf818;
+}
+
