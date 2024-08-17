@@ -1,0 +1,353 @@
+[
+   {
+     "productName": "UltraView 27QHD",
+     "brandName": "TechVision",
+     "categoryName": "Monitor",
+     "price": 349.99,
+     "dateAdded": "2024-08-10",
+     "description": "A 27-inch QHD monitor with vibrant colors and a 144Hz refresh rate, perfect for gaming and productivity.",
+     "productImg": "https://i.ibb.co/gTqR9XT/mon-2.png",
+     "rating": 4.7
+   },
+   {
+     "productName": "EdgeScreen 34 UltraWide",
+     "brandName": "VisionMax",
+     "categoryName": "Monitor",
+     "price": 499.99,
+     "dateAdded": "2024-08-05",
+     "description": "A 34-inch ultra-wide monitor with a curved display, perfect for immersive gaming and multitasking.",
+     "productImg": "https://i.ibb.co/1G9KR2F/moni.png",
+     "rating": 4.7
+   },
+   {
+     "productName": "CrystalClear 4K 32",
+     "brandName": "PixelPerfect",
+     "categoryName": "Monitor",
+     "price": 599.99,
+     "dateAdded": "2024-07-15",
+     "description": "A 32-inch 4K monitor with ultra-high-definition resolution, delivering stunning picture quality for professionals.",
+     "productImg": "https://i.ibb.co/1G9KR2F/moni.png",
+     "rating": 4.9
+   },
+   {
+     "productName": "ClarityView 24",
+     "brandName": "VisionEdge",
+     "categoryName": "Monitor",
+     "price": 179.99,
+     "dateAdded": "2024-07-15",
+     "description": "A 24-inch Full HD monitor with a slim bezel design, offering crisp visuals for everyday tasks.",
+     "productImg": "https://i.ibb.co/gTqR9XT/mon-2.png",
+     "rating": 4.5
+   },
+   {
+     "productName": "VividScreen 27",
+     "brandName": "BrightView",
+     "categoryName": "Monitor",
+     "price": 299.99,
+     "dateAdded": "2024-07-25",
+     "description": "A 27-inch Full HD monitor with an IPS panel, providing wide viewing angles and accurate colors.",
+     "productImg": "https://i.ibb.co/gTqR9XT/mon-2.png",
+     "rating": 4.6
+   },
+   {
+     "productName": "SmartPhone X10",
+     "brandName": "MobileMax",
+     "categoryName": "Mobile",
+     "price": 799.99,
+     "dateAdded": "2024-07-22",
+     "description": "A cutting-edge smartphone with a 6.5-inch OLED display, 5G connectivity, and a powerful AI camera.",
+     "productImg": "https://i.ibb.co/9njrxL0/mb-1.jpg",
+     "rating": 4.8
+   },
+   {
+     "productName": "Mobile Pro Max",
+     "brandName": "SmartConnect",
+     "categoryName": "Mobile",
+     "price": 899.99,
+     "dateAdded": "2024-08-09",
+     "description": "A flagship smartphone with a 6.7-inch Super AMOLED display, quad-camera setup, and 5000mAh battery.",
+     "productImg": "https://i.ibb.co/QvBXCS1/mb-1.png",
+     "rating": 4.8
+   },
+   {
+     "productName": "SmartPhone XL",
+     "brandName": "NextGen",
+     "categoryName": "Mobile",
+     "price": 749.99,
+     "dateAdded": "2024-07-28",
+     "description": "A smartphone with a 6.8-inch display, 108MP camera, and 6000mAh battery for extended usage.",
+     "productImg": "https://i.ibb.co/Y2b6RWP/mb-2.png",
+     "rating": 4.7
+   },
+   {
+     "productName": "ProPhone Elite",
+     "brandName": "MobileGiant",
+     "categoryName": "Mobile",
+     "price": 999.99,
+     "dateAdded": "2024-07-21",
+     "description": "A premium smartphone with a 7-inch display, 12GB RAM, and a 6000mAh battery for extended usage.",
+     "productImg": "https://i.ibb.co/HKNGtqd/mb-3.png",
+     "rating": 4.9
+   },
+   {
+     "productName": "ZenPhone 12",
+     "brandName": "GigaMobile",
+     "categoryName": "Mobile",
+     "price": 699.99,
+     "dateAdded": "2024-08-15",
+     "description": "A 5G-enabled smartphone with a 6.4-inch AMOLED display, 64MP camera, and 4500mAh battery.",
+     "productImg": "https://i.ibb.co/9njrxL0/mb-1.jpg",
+     "rating": 4.6
+   },
+   {
+     "productName": "WristFit Pro",
+     "brandName": "TimeTech",
+     "categoryName": "Smartwatch",
+     "price": 199.99,
+     "dateAdded": "2024-06-30",
+     "description": "A smartwatch with heart rate monitoring, GPS, and fitness tracking features, designed for active lifestyles.",
+     "productImg": "https://i.ibb.co/ccKJVNf/SW-1.png",
+     "rating": 4.6
+   },
+   {
+     "productName": "SmartWatch Fit 2",
+     "brandName": "GearTime",
+     "categoryName": "Smartwatch",
+     "price": 149.99,
+     "dateAdded": "2024-07-20",
+     "description": "A fitness-focused smartwatch with step tracking, sleep monitoring, and water resistance up to 50 meters.",
+     "productImg": "https://i.ibb.co/bQ07nFL/sw-2.png",
+     "rating": 4.5
+   },
+   {
+     "productName": "GearFit Plus",
+     "brandName": "ActiveWear",
+     "categoryName": "Smartwatch",
+     "price": 129.99,
+     "dateAdded": "2024-07-30",
+     "description": "A smartwatch with fitness tracking, heart rate monitoring, and customizable watch faces.",
+     "productImg": "https://i.ibb.co/VMM6W0G/sw-4.png",
+     "rating": 4.4
+   },
+   {
+     "productName": "CorePulse 5",
+     "brandName": "HeartRate",
+     "categoryName": "Smartwatch",
+     "price": 179.99,
+     "dateAdded": "2024-07-26",
+     "description": "A smartwatch with advanced heart rate monitoring, GPS, and multi-sport tracking capabilities.",
+     "productImg": "https://i.ibb.co/FWJc8mC/sw-5.png",
+     "rating": 4.5
+   },
+   {
+     "productName": "FitTrack Pro",
+     "brandName": "WearSmart",
+     "categoryName": "Smartwatch",
+     "price": 149.99,
+     "dateAdded": "2024-07-12",
+     "description": "A smartwatch with fitness tracking, sleep monitoring, and a long-lasting battery for all-day use.",
+     "productImg": "https://i.ibb.co/jZw5R3J/sw3.png",
+     "rating": 4.6
+   },
+   {
+     "productName": "QuadCore i9",
+     "brandName": "CompuBuild",
+     "categoryName": "CPU",
+     "price": 499.99,
+     "dateAdded": "2024-07-15",
+     "description": "A powerful Intel Core i9 processor with 8 cores and 16 threads, delivering high performance for gaming and workstations.",
+     "productImg": "https://i.ibb.co/6Dcq34f/cpu-1.png",
+     "rating": 4.9
+   },
+   {
+     "productName": "GigaCore Ryzen 7",
+     "brandName": "BuildTech",
+     "categoryName": "CPU",
+     "price": 399.99,
+     "dateAdded": "2024-06-25",
+     "description": "A high-performance AMD Ryzen 7 processor with 8 cores and 16 threads, ideal for gaming and content creation.",
+     "productImg": "https://i.ibb.co/XSwg0sr/cpu-2.png",
+     "rating": 4.8
+   },
+   {
+     "productName": "TurboCharge i7",
+     "brandName": "PowerCore",
+     "categoryName": "CPU",
+     "price": 349.99,
+     "dateAdded": "2024-07-18",
+     "description": "A powerful Intel Core i7 processor with Turbo Boost technology, delivering top-tier performance.",
+     "productImg": "https://i.ibb.co/hMQNjXz/cpu-3.png",
+     "rating": 4.7
+   },
+   {
+     "productName": "ClearSound Pro",
+     "brandName": "AudioEdge",
+     "categoryName": "CPU",
+     "price": 229.99,
+     "dateAdded": "2024-07-06",
+     "description": "An advanced audio processing unit for crystal-clear sound, featuring Dolby Atmos support.",
+     "productImg": "https://i.ibb.co/hMQNjXz/cpu-3.png",
+     "rating": 4.8
+   },
+   {
+     "productName": "SpeedBoost Ryzen 5",
+     "brandName": "CoreMaster",
+     "categoryName": "CPU",
+     "price": 279.99,
+     "dateAdded": "2024-07-20",
+     "description": "An efficient AMD Ryzen 5 processor with 6 cores, optimized for energy efficiency and performance.",
+     "productImg": "https://i.ibb.co/6Dcq34f/cpu-1.png",
+     "rating": 4.7
+   },
+   {
+     "productName": "FlyCam Drone",
+     "brandName": "AirVision",
+     "categoryName": "Drone",
+     "price": 699.99,
+     "dateAdded": "2024-08-12",
+     "description": "A compact drone with 4K video recording, smart flight modes, and a 20-minute flight time.",
+     "productImg": "https://i.ibb.co/drR5qZk/dr-2.png",
+     "rating": 4.6
+   },
+   {
+     "productName": "EagleEye Drone",
+     "brandName": "SkyTech",
+     "categoryName": "Drone",
+     "price": 1099.99,
+     "dateAdded": "2024-08-03",
+     "description": "A drone with advanced flight modes, 360-degree obstacle detection, and a 4K camera with gimbal stabilization.",
+     "productImg": "https://i.ibb.co/NLsD0nV/dr-3.png",
+     "rating": 4.7
+   },
+   {
+     "productName": "GlideDrone X2",
+     "brandName": "FlyHigh",
+     "categoryName": "Drone",
+     "price": 799.99,
+     "dateAdded": "2024-07-01",
+     "description": "A drone with a 2-axis gimbal, 4K HDR video, and intuitive controls for seamless flying experience.",
+     "productImg": "https://i.ibb.co/ngP7QWY/dr.png",
+     "rating": 4.7
+   },
+   {
+     "productName": "AirRacer Drone",
+     "brandName": "RaceTech",
+     "categoryName": "Drone",
+     "price": 1299.99,
+     "dateAdded": "2024-07-09",
+     "description": "A high-speed racing drone with FPV goggles, designed for competitive drone racing.",
+     "productImg": "https://i.ibb.co/drR5qZk/dr-2.png",
+     "rating": 4.8
+   },
+   {
+     "productName": "SkyFlyer Drone",
+     "brandName": "AeroDynamics",
+     "categoryName": "Drone",
+     "price": 599.99,
+     "dateAdded": "2024-08-13",
+     "description": "A drone with advanced GPS features, 4K UHD camera, and an easy-to-use controller for beginners.",
+     "productImg": "https://i.ibb.co/ngP7QWY/dr.png",
+     "rating": 4.5
+   },
+   {
+     "productName": "ProCam 8K",
+     "brandName": "UltraVision",
+     "categoryName": "Camera",
+     "price": 1499.99,
+     "dateAdded": "2024-07-14",
+     "description": "A top-tier camera with 8K resolution, advanced autofocus, and a weather-sealed body for outdoor shooting.",
+     "productImg": "https://i.ibb.co/BrXPxg2/cam-1.png",
+     "rating": 4.9
+   },
+   {
+     "productName": "CinePro Camera",
+     "brandName": "ProShot",
+     "categoryName": "Camera",
+     "price": 1299.99,
+     "dateAdded": "2024-08-06",
+     "description": "A professional camera with a 45MP sensor, 8K video recording, and dual native ISO for low-light performance.",
+     "productImg": "https://i.ibb.co/BrXPxg2/cam-1.png",
+     "rating": 4.9
+   },
+   {
+     "productName": "OptiCam 4K",
+     "brandName": "ImagePro",
+     "categoryName": "Camera",
+     "price": 799.99,
+     "dateAdded": "2024-07-23",
+     "description": "A versatile 4K camera with interchangeable lenses, 5-axis stabilization, and dual card slots.",
+     "productImg": "https://i.ibb.co/BrXPxg2/cam-1.png",
+     "rating": 4.8
+   },
+   {
+     "productName": "ZoomPro Camera",
+     "brandName": "FocusTech",
+     "categoryName": "Camera",
+     "price": 999.99,
+     "dateAdded": "2024-07-17",
+     "description": "A compact camera with 30x optical zoom, 4K video recording, and built-in Wi-Fi for easy sharing.",
+     "productImg": "https://i.ibb.co/BrXPxg2/cam-1.png",
+     "rating": 4.7
+   },
+   {
+     "productName": "SnapShot HD",
+     "brandName": "QuickCapture",
+     "categoryName": "Camera",
+     "price": 599.99,
+     "dateAdded": "2024-07-05",
+     "description": "A portable HD camera with fast autofocus, ideal for capturing spontaneous moments on the go.",
+     "productImg": "https://i.ibb.co/BrXPxg2/cam-1.png",
+     "rating": 4.6
+   },
+   {
+     "productName": "Streamline Laptop 16",
+     "brandName": "TechFlow",
+     "categoryName": "Laptop",
+     "price": 1399.99,
+     "dateAdded": "2024-07-31",
+     "description": "A 16-inch laptop with an Intel Core i9 processor, 32GB RAM, and a 2TB SSD, designed for professionals.",
+     "productImg": "https://i.ibb.co/kJDXTdJ/Laptop-2.png",
+     "rating": 4.9
+   },
+   {
+     "productName": "MegaBook 17",
+     "brandName": "ComputePro",
+     "categoryName": "Laptop",
+     "price": 1799.99,
+     "dateAdded": "2024-07-05",
+     "description": "A 17-inch powerhouse laptop with a Ryzen 9 processor, 64GB RAM, and 4TB SSD for high-performance computing.",
+     "productImg": "https://i.ibb.co/DL5zwz6/Lp-3.png",
+     "rating": 4.9
+   },
+   {
+     "productName": "AirNote 14",
+     "brandName": "LiteTech",
+     "categoryName": "Laptop",
+     "price": 1199.99,
+     "dateAdded": "2024-08-08",
+     "description": "A 14-inch ultralight laptop with an Intel Core i7 processor, 16GB RAM, and a 1TB SSD.",
+     "productImg": "https://i.ibb.co/CvgqtXG/LP-4.png",
+     "rating": 4.8
+   },
+   {
+     "productName": "UltraThin X13",
+     "brandName": "SlimLine",
+     "categoryName": "Laptop",
+     "price": 1299.99,
+     "dateAdded": "2024-08-01",
+     "description": "A 13-inch ultra-thin laptop with an Intel Core i5 processor, 8GB RAM, and a 512GB SSD, designed for portability.",
+     "productImg": "https://i.ibb.co/cNmqb35/lp-5.png",
+     "rating": 4.7
+   },
+   {
+     "productName": "ZenBook Flex 15",
+     "brandName": "FlexTech",
+     "categoryName": "Laptop",
+     "price": 1499.99,
+     "dateAdded": "2024-07-19",
+     "description": "A 15-inch convertible laptop with a touchscreen display, Intel Core i7 processor, and 16GB RAM.",
+     "productImg": "https://i.ibb.co/pKLrFQB/lp-6.png",
+     "rating": 4.8
+   }
+ ]
+ 
