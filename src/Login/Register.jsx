@@ -18,7 +18,7 @@ const Register = () => {
     const name = form.get("name");
     const email = form.get("email");
     const password = form.get("password");
-    console.log(name, email, password);
+    // console.log(name, email, password);
     if (password.length < 6) {
       toast.error("Password should be at Least 6 Characters or Longer");
       return;
@@ -38,10 +38,10 @@ const Register = () => {
 
     createUser(email, password)
       .then((result) => {
-        console.log(result.user);
+        // console.log(result.user);
       })
       .catch((error) => {
-        console.error(error.Firebase);
+        // console.error(error.Firebase);
         toast.error("Kindly give us proper information.", error[1]);
       });
     setTimeout(() => {

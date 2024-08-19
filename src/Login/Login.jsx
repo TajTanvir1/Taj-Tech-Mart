@@ -21,17 +21,17 @@ const Login = () => {
     const form = new FormData(e.currentTarget);
     const email = form.get("email");
     const password = form.get("password");
-    console.log(email, password);
+    // // console.log(email, password);
     signIn(email, password)
       .then((result) => {
-        console.log(result.user);
+        // console.log(result.user);
         toast("You Login Successfully");
         setTimeout(() => {
           navigate(location?.state ? location.state : "/");
         }, 2000);
       })
       .catch((error) => {
-        console.error(error);
+        // console.error(error);
         toast.error("Kindly Provide Correct Email & Password");
       });
   };
@@ -42,13 +42,13 @@ const handleSocialLogin = (socialProvider) => {
    socialProvider()
      .then((result) => {
        toast("You Login Successfully");
-       console.log(result.user);
+       // console.log(result.user);
        setTimeout(() => {
          navigate(location?.state ? location.state : "/");
        }, 2000);
      })
      .catch((error) => {
-       console.error(error);
+       // console.error(error);
      });
  };
   return (

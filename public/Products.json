@@ -51,7 +51,7 @@
    },
    {
      "productName": "SmartPhone X10",
-     "brandName": "MobileMax",
+     "brandName": "TechVision",
      "categoryName": "Mobile",
      "price": 799.99,
      "dateAdded": "2024-07-22",
@@ -61,7 +61,7 @@
    },
    {
      "productName": "Mobile Pro Max",
-     "brandName": "SmartConnect",
+     "brandName": "VisionEdge",
      "categoryName": "Mobile",
      "price": 899.99,
      "dateAdded": "2024-08-09",
@@ -71,7 +71,7 @@
    },
    {
      "productName": "SmartPhone XL",
-     "brandName": "NextGen",
+     "brandName": "PixelPerfect",
      "categoryName": "Mobile",
      "price": 749.99,
      "dateAdded": "2024-07-28",
@@ -81,7 +81,7 @@
    },
    {
      "productName": "ProPhone Elite",
-     "brandName": "MobileGiant",
+     "brandName": "BrightView",
      "categoryName": "Mobile",
      "price": 999.99,
      "dateAdded": "2024-07-21",
@@ -91,7 +91,7 @@
    },
    {
      "productName": "ZenPhone 12",
-     "brandName": "GigaMobile",
+     "brandName": "VisionMax",
      "categoryName": "Mobile",
      "price": 699.99,
      "dateAdded": "2024-08-15",
@@ -101,7 +101,7 @@
    },
    {
      "productName": "WristFit Pro",
-     "brandName": "TimeTech",
+     "brandName": "PixelPerfect",
      "categoryName": "Smartwatch",
      "price": 199.99,
      "dateAdded": "2024-06-30",
@@ -111,7 +111,7 @@
    },
    {
      "productName": "SmartWatch Fit 2",
-     "brandName": "GearTime",
+     "brandName": "TechVision",
      "categoryName": "Smartwatch",
      "price": 149.99,
      "dateAdded": "2024-07-20",
@@ -121,7 +121,7 @@
    },
    {
      "productName": "GearFit Plus",
-     "brandName": "ActiveWear",
+     "brandName": "VisionEdge",
      "categoryName": "Smartwatch",
      "price": 129.99,
      "dateAdded": "2024-07-30",
@@ -131,7 +131,7 @@
    },
    {
      "productName": "CorePulse 5",
-     "brandName": "HeartRate",
+     "brandName": "PixelPerfect",
      "categoryName": "Smartwatch",
      "price": 179.99,
      "dateAdded": "2024-07-26",
@@ -141,7 +141,7 @@
    },
    {
      "productName": "FitTrack Pro",
-     "brandName": "WearSmart",
+     "brandName": "BrightView",
      "categoryName": "Smartwatch",
      "price": 149.99,
      "dateAdded": "2024-07-12",
@@ -151,7 +151,7 @@
    },
    {
      "productName": "QuadCore i9",
-     "brandName": "CompuBuild",
+     "brandName": "VisionMax",
      "categoryName": "CPU",
      "price": 499.99,
      "dateAdded": "2024-07-15",
@@ -161,7 +161,7 @@
    },
    {
      "productName": "GigaCore Ryzen 7",
-     "brandName": "BuildTech",
+     "brandName": "TechVision",
      "categoryName": "CPU",
      "price": 399.99,
      "dateAdded": "2024-06-25",
@@ -171,7 +171,7 @@
    },
    {
      "productName": "TurboCharge i7",
-     "brandName": "PowerCore",
+     "brandName": "VisionEdge",
      "categoryName": "CPU",
      "price": 349.99,
      "dateAdded": "2024-07-18",
@@ -181,7 +181,7 @@
    },
    {
      "productName": "ClearSound Pro",
-     "brandName": "AudioEdge",
+     "brandName": "PixelPerfect",
      "categoryName": "CPU",
      "price": 229.99,
      "dateAdded": "2024-07-06",
@@ -191,7 +191,7 @@
    },
    {
      "productName": "SpeedBoost Ryzen 5",
-     "brandName": "CoreMaster",
+     "brandName": "BrightView",
      "categoryName": "CPU",
      "price": 279.99,
      "dateAdded": "2024-07-20",
@@ -201,7 +201,7 @@
    },
    {
      "productName": "FlyCam Drone",
-     "brandName": "AirVision",
+     "brandName": "VisionMax",
      "categoryName": "Drone",
      "price": 699.99,
      "dateAdded": "2024-08-12",
@@ -211,7 +211,7 @@
    },
    {
      "productName": "EagleEye Drone",
-     "brandName": "SkyTech",
+     "brandName": "TechVision",
      "categoryName": "Drone",
      "price": 1099.99,
      "dateAdded": "2024-08-03",
@@ -221,7 +221,7 @@
    },
    {
      "productName": "GlideDrone X2",
-     "brandName": "FlyHigh",
+     "brandName": "VisionEdge",
      "categoryName": "Drone",
      "price": 799.99,
      "dateAdded": "2024-07-01",
@@ -231,7 +231,7 @@
    },
    {
      "productName": "AirRacer Drone",
-     "brandName": "RaceTech",
+     "brandName": "PixelPerfect",
      "categoryName": "Drone",
      "price": 1299.99,
      "dateAdded": "2024-07-09",
@@ -241,7 +241,7 @@
    },
    {
      "productName": "SkyFlyer Drone",
-     "brandName": "AeroDynamics",
+     "brandName": "BrightView",
      "categoryName": "Drone",
      "price": 599.99,
      "dateAdded": "2024-08-13",
@@ -251,7 +251,7 @@
    },
    {
      "productName": "ProCam 8K",
-     "brandName": "UltraVision",
+     "brandName": "VisionMax",
      "categoryName": "Camera",
      "price": 1499.99,
      "dateAdded": "2024-07-14",
@@ -261,7 +261,7 @@
    },
    {
      "productName": "CinePro Camera",
-     "brandName": "ProShot",
+     "brandName": "TechVision",
      "categoryName": "Camera",
      "price": 1299.99,
      "dateAdded": "2024-08-06",
@@ -271,7 +271,7 @@
    },
    {
      "productName": "OptiCam 4K",
-     "brandName": "ImagePro",
+     "brandName": "VisionEdge",
      "categoryName": "Camera",
      "price": 799.99,
      "dateAdded": "2024-07-23",
@@ -281,7 +281,7 @@
    },
    {
      "productName": "ZoomPro Camera",
-     "brandName": "FocusTech",
+     "brandName": "PixelPerfect",
      "categoryName": "Camera",
      "price": 999.99,
      "dateAdded": "2024-07-17",
@@ -291,7 +291,7 @@
    },
    {
      "productName": "SnapShot HD",
-     "brandName": "QuickCapture",
+     "brandName": "BrightView",
      "categoryName": "Camera",
      "price": 599.99,
      "dateAdded": "2024-07-05",
@@ -301,7 +301,7 @@
    },
    {
      "productName": "Streamline Laptop 16",
-     "brandName": "TechFlow",
+     "brandName": "VisionMax",
      "categoryName": "Laptop",
      "price": 1399.99,
      "dateAdded": "2024-07-31",
@@ -311,7 +311,7 @@
    },
    {
      "productName": "MegaBook 17",
-     "brandName": "ComputePro",
+     "brandName": "TechVision",
      "categoryName": "Laptop",
      "price": 1799.99,
      "dateAdded": "2024-07-05",
@@ -321,7 +321,7 @@
    },
    {
      "productName": "AirNote 14",
-     "brandName": "LiteTech",
+     "brandName": "VisionEdge",
      "categoryName": "Laptop",
      "price": 1199.99,
      "dateAdded": "2024-08-08",
@@ -331,7 +331,7 @@
    },
    {
      "productName": "UltraThin X13",
-     "brandName": "SlimLine",
+     "brandName": "PixelPerfect",
      "categoryName": "Laptop",
      "price": 1299.99,
      "dateAdded": "2024-08-01",
@@ -341,7 +341,7 @@
    },
    {
      "productName": "ZenBook Flex 15",
-     "brandName": "FlexTech",
+     "brandName": "BrightView",
      "categoryName": "Laptop",
      "price": 1499.99,
      "dateAdded": "2024-07-19",
