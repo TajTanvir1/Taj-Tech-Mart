@@ -62,12 +62,22 @@ const Products = () => {
                </ul>
             </div>
 
-            {/* Filter by Categories */}
+            {/* Filter by Price */}
             <div className="dropdown md:ml-4">
                <div tabIndex={0} role="button" className="btn m-1"><TbFilterQuestion/> Price Range</div>
                <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] p-2 shadow">
                <li className="text-base"><button>$ 0 to 49</button></li>
                <li className="text-base"><button>$ 50 to 99</button></li>
+               </ul>
+            </div>
+
+            {/* Sort by Price and Date */}
+            <div className="dropdown md:ml-4">
+               <div tabIndex={0} role="button" className="btn m-1">Sort by</div>
+               <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box w-44 z-[1] p-2 shadow">
+               <li className="text-base"><button>Price: Low to High</button></li>
+               <li className="text-base"><button>Price: High to Low</button></li>
+               <li className="text-base"><button>Date: Newest First</button></li>
                </ul>
             </div>
 
