@@ -32,6 +32,25 @@ const Products = () => {
 
          
 
+         {/* Search Functions */}
+         <div className="mx-auto flex justify-end">
+            <form onSubmit={handleSearch}>
+               <div className="flex justify-between p-1 overflow-hidden rounded-lg border-2 border-orange-300 mr-2 md:mr-4">
+                  <input
+                     className="md:px-5 px-2 py-2 text-gray-700 bg-white outline-none"
+                     type="text"
+                     onChange={(e) => setSearchText(e.target.value)}
+                     value={searchText}
+                     name="search"
+                     placeholder="Search Product by Title"
+                  />
+                  <button className="btn btn-accent text-lg">
+                     <BsSearch /> Search
+                  </button>
+               </div>
+            </form>
+         </div>
+
 
          {/* Card Component */}
          {
