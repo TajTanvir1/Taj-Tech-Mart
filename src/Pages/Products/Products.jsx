@@ -62,7 +62,14 @@ const Products = () => {
                </ul>
             </div>
 
-            
+            {/* Filter by Categories */}
+            <div className="dropdown md:ml-4">
+               <div tabIndex={0} role="button" className="btn m-1"><TbFilterQuestion/> Price Range</div>
+               <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] p-2 shadow">
+               <li className="text-base"><button>$ 0 to 49</button></li>
+               <li className="text-base"><button>$ 50 to 99</button></li>
+               </ul>
+            </div>
 
             {/* Search Functions */}
             <div className="mx-auto flex lg:flex-none justify-end">
